@@ -18,14 +18,14 @@
         <url-pattern>/*</url-pattern>
     </filter-mapping>
 
-   <!-- <filter>
+    <filter>
         <filter-name>LoginFilter</filter-name>
         <filter-class>com.msgSystem.utils.LoginFilter</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>LoginFilter</filter-name>
         <url-pattern>/*</url-pattern>
-    </filter-mapping>-->
+    </filter-mapping>
 
     <servlet>
         <servlet-name>msgSystem</servlet-name>
